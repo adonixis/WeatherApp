@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Погода</string>
+
+    <string name="title_activity_maps">Google Карты</string>
+
+    <string name="tab_text_spb">Санкт-Петербург</string>
+    <string name="tab_text_moscow">Москва</string>
+
+    <string name="snackbar_action_hide">Скрыть</string>
+
+    <string name="access_location_title">Разрешите геолокацию</string>
+    <string name="access_location_message">Тогда приложение сможет определить ваше местоположение</string>
+
+    <string name="btn_positive">OK</string>
+
+    <string name="dark_sky_api_key" translatable="false">3e7e519ea86c8e3fcf67c0f4870513d7</string>
+    <string name="google_maps_api_key" translatable="false">AIzaSyBmzgu1yEZbEvCdd6insDoVrCbiI4Y1OeY</string>
+    <string name="icon_url" translatable="false">https://darksky.net/images/weather-icons/%1$s.png</string>
+</resources>
